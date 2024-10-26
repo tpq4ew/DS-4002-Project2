@@ -12,7 +12,7 @@ LICENSE.md : Licensing and copyright reproducibility information
 
 DATA FOLDER This folder contains all data files, both raw and cleaned, that are used in the project.
 
-Final_dataframe (1).csv : This dataframe is the final clean dataset that we used to conduct analysis.
+merged_data (1).csv : This dataframe is the final clean dataset that we used to conduct analysis.
 
 SCRIPTS FOLDER This folder contains any code used in the project:
 
