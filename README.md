@@ -12,15 +12,19 @@ LICENSE.md : Licensing and copyright reproducibility information
 
 DATA FOLDER This folder contains all data files, both raw and cleaned, that are used in the project.
 
-merged_data (1).csv : This dataframe is the final clean dataset that we used to conduct analysis.
+These datasets were the final datasets that we used to conduct analysis:
+north_average_admission_rate_by_year.csv
+north_average_tuition_by_year.csv
+south_average_admission_rate_by_year.csv
+south_average_tuition_by_year.csv
 
 SCRIPTS FOLDER This folder contains any code used in the project:
 
-Project 2 Code.ipynb : This is the cleaning code that we used to reformat the raw data set downloaded from the US DOE website. This code also generates the visualizations that we used in our original data understanding phase. After consolidating the code, this also runs the analysis for our project.
+Project_2_Analysis.ipynb : This is the cleaning code that we used to reformat the raw data set downloaded from the US DOE website. This code also generates the visualizations that we used in our original data understanding phase. After consolidating the code, this also runs the analysis for our project.
 
 OUTPUT FOLDER This folder contains any visual outputs used for preanalysis and understanding of the data set. Files in this folder are named according to their relevance.
 
 Project 2 Presentation: This file includes the slides that will be presented in class.
 
-Reproduction Instructions The first step for analysis replication is downloading the initial dataset included in the DATA folder above. Using this dataset, run the "Project 2 code.ipynb" to obtain the outputs and clean data frame used in the analysis section. To return the results of the analysis, continue to run the code. This should produce identical results to the ones that we achieved.
+Reproduction Instructions The first step for analysis replication is downloading the initial dataset included in the DATA folder above. Using this dataset, run the "Project_2_Analysis.ipynb" to obtain the outputs and clean data frame used in the analysis section. To return the results of the analysis, continue to run the code. This should produce identical results to the ones that we achieved.
 
